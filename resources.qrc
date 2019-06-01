@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons8-add-new-24.png</file>
+        <file>icons8-copy-24.png</file>
+        <file>icons8-delete-bin-24.png</file>
+        <file>icons8-opened-folder-24.png</file>
+        <file>icons8-paste-24.png</file>
+        <file>icons8-save-24.png</file>
+        <file>icons8-save-as-24.png</file>
+        <file>icons8-scissors-24.png</file>
+        <file>icons8-print-24.png</file>
+        <file>icons8-close-window-24.png</file>
+        <file>icons8-redo-24.png</file>
+        <file>icons8-undo-24.png</file>
+        <file>icons8-note-24.png</file>
+    </qresource>
+</RCC>
